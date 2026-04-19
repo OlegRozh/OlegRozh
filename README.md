@@ -52,7 +52,6 @@ REST API на Go с SQLite для управления задачами (CRUD). 
 ## 📫 Контакты
 - **Telegram:** [@Olegrozh](https://t.me/Olegrozh)
 - **GitHub:** [github.com/OlegRozh](https://github.com/OlegRozh)
-- **Резюме и портфолио:** [ссылка на PDF-файл (если есть)]
 
 ---
 
